@@ -1,0 +1,17 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sanjay Jana",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
